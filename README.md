@@ -233,7 +233,7 @@
         let hasSpun = false;
         
         // Вероятности для каждого приза
-        const prizeProbabilities = [13.75, 40, 13.75, 13.75, 13.75, 5];
+        const prizeProbabilities = [16.66, 16.66, 16.66, 16.66, 16.66, 16.665];
         const prizes = [
             "Подарок 1",
             "Подарок 2",
